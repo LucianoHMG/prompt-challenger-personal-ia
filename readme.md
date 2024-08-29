@@ -120,4 +120,74 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+## 🎯 Prompt de Resposta Proposto# Prompt Challenger Personal IA
+
+Este repositório é um desafio para criar uma IA que gera prompts personalizados baseados em regras específicas.
+
+## Regras
+
+1. **Objetivo**: Criar prompts que ajudem a gerar respostas precisas e úteis para a IA.
+2. **Formato do Prompt**: Os prompts devem ser claros, objetivos e específicos.
+3. **Personalização**: Adapte os prompts de acordo com o perfil do usuário ou o contexto.
+
+## Exemplo de Prompt
+
+- **Objetivo**: Melhorar a forma física geral.
+- **Prompt**: "Desenvolva um plano de treino semanal para um iniciante que deseja melhorar a forma física geral. O plano deve incluir exercícios cardiovasculares e de força."
+
+## Como Contribuir
+
+1. Clone o repositório.
+2. Adicione seu prompt no formato especificado.
+3. Crie um pull request.
+
+## Comando ou Prompt
+
+**Treino para endomorfo,**
+- Treina 5 dias na semana
+- Trabalha 12 horas
+- Acrescente dicas de alimentação ideal
+
+## Plano de Treino Personalizado
+
+### Perfil
+
+- Endomorfo
+- Treina 5 dias por semana
+- Trabalha 12 horas por dia
+
+### Treino
+
+- **Dia 1**: Funcional + Cardio
+  - Treino Funcional
+  - 30 minutos de HIIT
+
+- **Dia 2**: Peso Livre (Full Body)
+  - Treino com pesos livres focado em todo o corpo
+
+- **Dia 3**: Funcional + Cardio
+  - Treino Funcional
+  - 45 minutos de Corrida
+
+- **Dia 4**: Maquinário
+  - Perna e Core
+
+- **Dia 5**: Peso Livre (Parte Superior)
+  - Treino com pesos livres focado na parte superior do corpo
+
+### Alimentação
+
+- **Pré-Treino**:
+  - Carboidratos complexos (ex.: aveia, batata doce)
+  - Proteína magra (ex.: ovo, frango)
+
+- **Pós-Treino**:
+  - Proteína (ex.: shake de whey ou frango)
+  - Carboidratos rápidos (ex.: banana)
+
+- **Ao Longo do Dia**:
+  - Frutas
+  - Vegetais
+  - Proteína magra em pequenas refeições
+
+Essas diretrizes ajudam a manter energia e promover a recuperação muscular adequada.
